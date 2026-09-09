@@ -1,6 +1,3 @@
-# GarrisonMain.github.io
-LORE
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
